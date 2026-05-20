@@ -1,0 +1,23 @@
+{
+  "env": {
+    "ANTHROPIC_AUTH_TOKEN": "76d6c543f725489f8516557e1f1cffcf.DLsHhra9OyWpGvsL",
+    "ANTHROPIC_BASE_URL": "https://open.bigmodel.cn/api/anthropic",
+    "ANTHROPIC_DEFAULT_HAIKU_MODEL": "glm-5",
+    "ANTHROPIC_DEFAULT_OPUS_MODEL": "glm-5",
+    "ANTHROPIC_DEFAULT_SONNET_MODEL": "glm-5",
+    "ANTHROPIC_MODEL": "glm-5"
+  },
+  "includeCoAuthoredBy": false,
+  "extraKnownMarketplaces": {
+    "dontbesilent-skills": {
+      "source": {
+        "source": "github",
+        "repo": "dontbesilent2025/dbskill"
+      }
+    }
+  },
+  "theme": "dark",
+  "enabledPlugins": {
+    "dbs@dontbesilent-skills": true
+  }
+}

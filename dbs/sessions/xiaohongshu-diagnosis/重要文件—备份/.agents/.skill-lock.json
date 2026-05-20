@@ -1,0 +1,186 @@
+{
+  "version": 3,
+  "skills": {
+    "dbs": {
+      "source": "dontbesilent2025/dbskill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/dontbesilent2025/dbskill.git",
+      "skillPath": "skills/dbs/SKILL.md",
+      "skillFolderHash": "52f6b797cb8b4bd8347ffdb32ed27289a06b9438",
+      "pluginName": "dbs",
+      "installedAt": "2026-05-18T06:13:05.247Z",
+      "updatedAt": "2026-05-18T06:13:05.247Z"
+    },
+    "dbs-action": {
+      "source": "dontbesilent2025/dbskill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/dontbesilent2025/dbskill.git",
+      "skillPath": "skills/dbs-action/SKILL.md",
+      "skillFolderHash": "0e7afdddb4f5e02e221664897a4feb9174c6032c",
+      "pluginName": "dbs-action",
+      "installedAt": "2026-05-18T06:13:05.260Z",
+      "updatedAt": "2026-05-18T06:13:05.260Z"
+    },
+    "dbs-agent-migration": {
+      "source": "dontbesilent2025/dbskill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/dontbesilent2025/dbskill.git",
+      "skillPath": "skills/dbs-agent-migration/SKILL.md",
+      "skillFolderHash": "d31d69656d57666bb97094ff9b981d231a5cdfbb",
+      "pluginName": "dbs-agent-migration",
+      "installedAt": "2026-05-18T06:13:05.275Z",
+      "updatedAt": "2026-05-18T06:13:05.275Z"
+    },
+    "dbs-ai-check": {
+      "source": "dontbesilent2025/dbskill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/dontbesilent2025/dbskill.git",
+      "skillPath": "skills/dbs-ai-check/SKILL.md",
+      "skillFolderHash": "237ea4c321512a7e1f289264e5636faa5cc960e0",
+      "pluginName": "dbs-ai-check",
+      "installedAt": "2026-05-18T06:13:05.286Z",
+      "updatedAt": "2026-05-18T06:13:05.286Z"
+    },
+    "dbs-benchmark": {
+      "source": "dontbesilent2025/dbskill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/dontbesilent2025/dbskill.git",
+      "skillPath": "skills/dbs-benchmark/SKILL.md",
+      "skillFolderHash": "f900e27c4a265cce66c7ecb986926ab75b9090c8",
+      "pluginName": "dbs-benchmark",
+      "installedAt": "2026-05-18T06:13:05.295Z",
+      "updatedAt": "2026-05-18T06:13:05.295Z"
+    },
+    "dbs-chatroom": {
+      "source": "dontbesilent2025/dbskill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/dontbesilent2025/dbskill.git",
+      "skillPath": "skills/dbs-chatroom/SKILL.md",
+      "skillFolderHash": "92a8c7692fa5bc1edcad3d913bd7e4dc5ec9128d",
+      "pluginName": "dbs-chatroom",
+      "installedAt": "2026-05-18T06:13:05.302Z",
+      "updatedAt": "2026-05-18T06:13:05.302Z"
+    },
+    "dbs-chatroom-austrian": {
+      "source": "dontbesilent2025/dbskill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/dontbesilent2025/dbskill.git",
+      "skillPath": "skills/dbs-chatroom-austrian/SKILL.md",
+      "skillFolderHash": "5ed851fee44e86c534b2435b593b2e662350a14c",
+      "pluginName": "dbs-chatroom-austrian",
+      "installedAt": "2026-05-18T06:13:05.315Z",
+      "updatedAt": "2026-05-18T06:13:05.315Z"
+    },
+    "dbs-content": {
+      "source": "dontbesilent2025/dbskill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/dontbesilent2025/dbskill.git",
+      "skillPath": "skills/dbs-content/SKILL.md",
+      "skillFolderHash": "9aeb0d3b3748f0eda96d2239127af0e08b5cf81e",
+      "pluginName": "dbs-content",
+      "installedAt": "2026-05-18T06:13:05.327Z",
+      "updatedAt": "2026-05-18T06:13:05.327Z"
+    },
+    "dbs-deconstruct": {
+      "source": "dontbesilent2025/dbskill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/dontbesilent2025/dbskill.git",
+      "skillPath": "skills/dbs-deconstruct/SKILL.md",
+      "skillFolderHash": "6a84e612704bc3f8069e52f1996b66ff27e92ff2",
+      "pluginName": "dbs-deconstruct",
+      "installedAt": "2026-05-18T06:13:05.335Z",
+      "updatedAt": "2026-05-18T06:13:05.335Z"
+    },
+    "dbs-diagnosis": {
+      "source": "dontbesilent2025/dbskill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/dontbesilent2025/dbskill.git",
+      "skillPath": "skills/dbs-diagnosis/SKILL.md",
+      "skillFolderHash": "cf7c23ae14bc360cbcbeef1808deea5761b6be19",
+      "pluginName": "dbs-diagnosis",
+      "installedAt": "2026-05-18T06:13:05.343Z",
+      "updatedAt": "2026-05-18T06:13:05.343Z"
+    },
+    "dbs-goal": {
+      "source": "dontbesilent2025/dbskill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/dontbesilent2025/dbskill.git",
+      "skillPath": "skills/dbs-goal/SKILL.md",
+      "skillFolderHash": "6ccf532357cdd06cbb6b198127c29687656b449f",
+      "pluginName": "dbs-goal",
+      "installedAt": "2026-05-18T06:13:05.351Z",
+      "updatedAt": "2026-05-18T06:13:05.351Z"
+    },
+    "dbs-hook": {
+      "source": "dontbesilent2025/dbskill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/dontbesilent2025/dbskill.git",
+      "skillPath": "skills/dbs-hook/SKILL.md",
+      "skillFolderHash": "6559ff6524316bbdf4e2b05c2001d3bc0b6b0915",
+      "pluginName": "dbs-hook",
+      "installedAt": "2026-05-18T06:13:05.367Z",
+      "updatedAt": "2026-05-18T06:13:05.367Z"
+    },
+    "dbs-learning": {
+      "source": "dontbesilent2025/dbskill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/dontbesilent2025/dbskill.git",
+      "skillPath": "skills/dbs-learning/SKILL.md",
+      "skillFolderHash": "98ebd28d1e5c4a1cabd4208df432fb44625a112a",
+      "pluginName": "dbs-learning",
+      "installedAt": "2026-05-18T06:13:05.381Z",
+      "updatedAt": "2026-05-18T06:13:05.381Z"
+    },
+    "dbs-report": {
+      "source": "dontbesilent2025/dbskill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/dontbesilent2025/dbskill.git",
+      "skillPath": "skills/dbs-report/SKILL.md",
+      "skillFolderHash": "fd1291d9f06a9e84e4df40df553915d7a63fd065",
+      "pluginName": "dbs-report",
+      "installedAt": "2026-05-18T06:13:05.394Z",
+      "updatedAt": "2026-05-18T06:13:05.394Z"
+    },
+    "dbs-restore": {
+      "source": "dontbesilent2025/dbskill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/dontbesilent2025/dbskill.git",
+      "skillPath": "skills/dbs-restore/SKILL.md",
+      "skillFolderHash": "58ea361709fd32c31d80cc7d35fdfab60fe34448",
+      "pluginName": "dbs-restore",
+      "installedAt": "2026-05-18T06:13:05.407Z",
+      "updatedAt": "2026-05-18T06:13:05.407Z"
+    },
+    "dbs-save": {
+      "source": "dontbesilent2025/dbskill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/dontbesilent2025/dbskill.git",
+      "skillPath": "skills/dbs-save/SKILL.md",
+      "skillFolderHash": "2ca5100368942615be973d5aba833d25b10da425",
+      "pluginName": "dbs-save",
+      "installedAt": "2026-05-18T06:13:05.420Z",
+      "updatedAt": "2026-05-18T06:13:05.420Z"
+    },
+    "dbs-slowisfast": {
+      "source": "dontbesilent2025/dbskill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/dontbesilent2025/dbskill.git",
+      "skillPath": "skills/dbs-slowisfast/SKILL.md",
+      "skillFolderHash": "df3ea8645f1120182d8128d2ad215e9c493347c4",
+      "pluginName": "dbs-slowisfast",
+      "installedAt": "2026-05-18T06:13:05.439Z",
+      "updatedAt": "2026-05-18T06:13:05.439Z"
+    },
+    "dbs-xhs-title": {
+      "source": "dontbesilent2025/dbskill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/dontbesilent2025/dbskill.git",
+      "skillPath": "skills/dbs-xhs-title/SKILL.md",
+      "skillFolderHash": "2488ef28bdb65cd66fa6f9ec848ec5464d75ca41",
+      "pluginName": "dbs-xhs-title",
+      "installedAt": "2026-05-18T06:13:05.452Z",
+      "updatedAt": "2026-05-18T06:13:05.452Z"
+    }
+  },
+  "dismissed": {}
+}
